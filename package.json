@@ -1,0 +1,24 @@
+{
+  "name": "build-my-fest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenWatson2000/build-my-fest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenWatson2000/build-my-fest/issues"
+  },
+  "homepage": "https://github.com/BenWatson2000/build-my-fest#readme",
+  "dependencies": {
+    "firebase": "^9.8.2",
+    "serve": "^13.0.2"
+  }
+}
